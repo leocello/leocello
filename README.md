@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a skilled and experienced full-stack software engineer with experience in multi-tenancy online systems, API development, and overall web-based software creation. Passionate for solving puzzles and challenging problems, and in constant learning and improving, always trying to make my work better not only from a performance perspective but also for good readability, code quality and future maintenance.
+I'm a skilled and experienced full-stack software engineer with experience in multi-tenancy online systems, API development, and overall web-based software creation. Passionate for solving puzzles and challenging problems, and in constant learning and improving, always trying to make my work better not only from a performance perspective but also for good readability, code quality and future maintenance.  
+
+View my resume here: [https://leocello.github.io/resume](https://leocello.github.io/resume)  
 
 <!--
 **leocello/leocello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
