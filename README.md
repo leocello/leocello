@@ -6,7 +6,7 @@ Learning is a passion that makes me improve all the time and to never feel comfo
 
 And I have to admit that I have a special love for solving puzzling and challenging problems.  
 
-Please visit those links to know more about me:  
+Please visit the following links to know more:  
 * [My resume](https://leocello.github.io/resume)  
 * [Linkedin profile](https://linkedin.com/in/leocello)  
 
