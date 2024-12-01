@@ -12,7 +12,9 @@ Ultimately, my goal is to leverage my skills and passion for problem-solving to 
 
 Please visit the following links to know more:  
 * [My resume](https://leocello.github.io/resume)  
-* [Linkedin profile](https://linkedin.com/in/leocello)  
+* [Linkedin profile](https://linkedin.com/in/leocello)
+* [Codebase 42 - Youtube](https://www.youtube.com/@codebase42)
+* [Codebase 42 - Github](https://github.com/codebase-42)
 
 <!--
 **leocello/leocello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
